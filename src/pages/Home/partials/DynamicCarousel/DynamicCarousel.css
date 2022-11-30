@@ -1,0 +1,13 @@
+
+.carouselMovieDisplay {
+
+    
+    flex-direction: column;
+
+}
+
+.moviePoster {
+
+    height: 6em;
+    width: 5em;
+}
